@@ -24,4 +24,6 @@
 
 ![image](https://github.com/Viniciusluizi/Informatica/assets/163477952/a68b0ce7-0c2e-4515-a66c-ca97471a70cd)
 
-  
+
+ ![image](https://github.com/Viniciusluizi/Informatica/assets/163477952/483a8c19-802c-4bb6-a9ed-18c1208a854a)
+

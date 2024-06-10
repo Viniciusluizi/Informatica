@@ -28,7 +28,9 @@
  ![image](https://github.com/Viniciusluizi/Informatica/assets/163477952/483a8c19-802c-4bb6-a9ed-18c1208a854a)
  
 #  Apresentaçao infomática
-  
+
+  ![image](https://github.com/Viniciusluizi/Informatica/assets/163477952/8fe587d1-b6d0-46e4-9af0-a925f857efa0)
+
 [ver apresentação](https://github.com/Viniciusluizi/Informatica/blob/main/apresenta%C3%A7ao%20informatica-compactado.pdf)
 
 # excel

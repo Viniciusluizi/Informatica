@@ -39,4 +39,4 @@
 
   # Sprint 4 Apresentação
 
-  ![ver apresentação](https://github.com/Viniciusluizi/Informatica/blob/main/sprint-4.mp4)
+  ![video](https://github.com/Viniciusluizi/Informatica/blob/main/sprint-4.mp4)
